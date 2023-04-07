@@ -28,22 +28,25 @@ To play Flash-Act, you will need two players and a device with access to the int
 8. Repeat steps 3-7 until a winner is determined.
 
 ## Future updates
+
 - Add extra player animations to show when each player inputs.
 - Implement a mute button to cancel all sound output.
 - Add an image to react to as the core game mechanic instead of listening to the end of the song for accessibility.
 
 ## Technologies Used
+
 Flash-Act is a JavaScript, HTML, and CSS-based game. The game relies on the Web Audio API to play the song and measure the player's reaction time. The game is run through the Netlify service and updated regularly via Github. 
 
 ## References Used
 
-MDN Web Docs. (n.d.). Mozilla Developer Network. https://developer.mozilla.org/en-US/
+- MDN Web Docs. (n.d.). Mozilla Developer Network. https://developer.mozilla.org/en-US/
 
-Stack Overflow. (n.d.). Stack Exchange Inc. https://stackoverflow.com/
+- Stack Overflow. (n.d.). Stack Exchange Inc. https://stackoverflow.com/
 
-Google. (n.d.). Google Search Engine. https://www.google.com/
+- Google. (n.d.). Google Search Engine. https://www.google.com/
 
 ## Attributions
+
 __Songs__
 - Warfield https://soundcloud.com/akoge/w-sterling-bidler
 - Snow https://soundcloud.com/sterlingbidler/anna-pest-x-sterling-bidler-snow?si=d90938d783aa46a5b3cbc13746d009b1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing

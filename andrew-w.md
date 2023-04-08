@@ -11,10 +11,10 @@ The game in question --> [Bard's Quest!](https://bards-quest.netlify.app/)
 <br></br>
 To play, you will cycle through multiple choice prompts in a looping path that takes you through The Wizard Glik's tower as you try to escape. You will need to pay attention to any clues you may find to make your escape.
 
-
-## ATTRIBUTIONS
-
+## Technology Used
 I used HTML, CSS, JavaScript, Adobe Illustrator, and Github to make this game.
+
+## Attributions
 
 I would like to thank Sierra On-Line for making King's Quest 3, which inspired me to make this story.
 
@@ -36,7 +36,7 @@ My pictures were all turned into vector images and edited/mashed together by me,
 
 And here are some of my [planning materials](https://docs.google.com/document/d/1ThFBmxCyaJQzrHqkZ4ivg4am-BzQDFAs2KUK4bp-9rc/edit).
 
-## NEXT STEPS:
+## Next Steps
 
 - I will add a timed event where the Wizard Glik arrives home, and you must hide what you are doing from him during a prompt.
 

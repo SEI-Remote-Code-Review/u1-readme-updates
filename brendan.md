@@ -6,39 +6,42 @@
 
 _"A Glass of OJ" is a choose your own adventure game_
 
-The game is about the player themselves in a situation where you wake up after a night of intense inebriation and realize your wallet is gone. You've got to make choices to retrace your steps and find the last place you think you might have left your wallet.
-### - One of the reasons I chose the "Choose your own Adventure" game option is because I love video games a lot myself, and especially games that allow you to make choices that change or impact the story in some way. If done correctly, the player feels they impacted the world, and their experiences are all unique and different. 
+The game is about you, the player in a situation where you wake up after a night of intense inebriation and realize your wallet is gone. You've got to make choices to retrace your steps and find the last place you think you might have left your wallet.
+
+One of the reasons I chose the "Choose your own Adventure" game option is because I love video games, especially games that allow you to make choices that change or impact the story in some way. If done correctly, the player feels they have impacted the world, and their experiences are all unique and different. 
 
 ## [PLAY HERE](https://lucent-duckanoo-b36e0a.netlify.app)
 
-## Instructions: 
-- ### Select one of choices to progress story. There are even a few easter eggs to look for. See if you can find them all! Enjoy 😎
+## Instructions
 
-## ATTRIBUTIONS:
+Select one of the choices to progress then story. There are even a few easter eggs to look for. See if you can find them all! Enjoy 😎
 
-### AUDIO:
+## Attributions
 
-- #### [Intro sound effect](https://youtu.be/6rYbOOU3tes)
+### Audio
 
-- #### [Button press sound effect](https://youtu.be/tVJmvlNf_wk)
+- [Intro sound effect](https://youtu.be/6rYbOOU3tes)
+- [Button press sound effect](https://youtu.be/tVJmvlNf_wk)
 
-### IMAGES: 
+### Images
 
-- #### [Favicons]("https://www.favicon.cc")
+- [Favicons]("https://www.favicon.cc")
+- [Other favicons](https://fontawesome.com/)
+- [Background image](https://i.ytimg.com/vi/QVEBrnlCDik/maxresdefault.jpg)
 
-- #### [Other favicons](https://fontawesome.com/)
+### Animation
 
-- #### [Background image](https://i.ytimg.com/vi/QVEBrnlCDik/maxresdefault.jpg)
+- https://alvarotrigo.com/blog/10-cool-css-animations-to-add-to-your-website/
 
-## Animation:  
-- ### https://alvarotrigo.com/blog/10-cool-css-animations-to-add-to-your-website/
+## Technologies Used
 
-### TECHNOLOGIES USED:
+- Git
+- CSS
+- JavaScript
+- HTML
 
-- #### Git
-- #### CSS
-- #### JavaScript
-- #### HTML
+## Next Steps
 
-## Next steps:
-- ### Get background to change on certain checkpoints, Add story paths to make story longer, Add favicon icon for inventory to show what items player currently holds in inventory.
+- Make the background change at certain checkpoints.
+- Add story paths to make story longer.
+- Add a favicon icon for inventory to show what items the player currently holds in their inventory.

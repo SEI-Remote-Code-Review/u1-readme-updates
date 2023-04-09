@@ -20,7 +20,7 @@ CLICK HERE TO PLAY!! --> https://eloquent-madeleine-873448.netlify.app/
 - Favicon from https://icons8.com/icons/set/favicon
 
 
-## Technologies Used: 
+## Technologies Used
 
 - JavaScript
 - HTML

@@ -38,6 +38,7 @@ Per [Wikipedia](https://en.wikipedia.org/wiki/Minimax), the Minimax algorithm is
 * Netlify
 
 ## Attributions 🤩
+
 * The Pacifico font family which can be accessed [here](https://fonts.google.com/specimen/Pacifico)
 * Passages from the original Othello script, written by William Shakespeare, found [here](http://shakespeare.mit.edu/othello/full.html)
 * Minimax algorithm explanation and pseudocode from Amina A. Aljubran [here](http://cs.indstate.edu/~aaljubran/paper.pdf)
@@ -60,3 +61,4 @@ Per [Wikipedia](https://en.wikipedia.org/wiki/Minimax), the Minimax algorithm is
 - [ ] Add animation to pieces when they are flipped.
 - [ ] Add a mobile friendly view.
 - [ ] Add a Dark/light mode toggle.
+- [ ] 

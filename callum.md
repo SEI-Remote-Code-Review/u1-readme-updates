@@ -61,4 +61,3 @@ Per [Wikipedia](https://en.wikipedia.org/wiki/Minimax), the Minimax algorithm is
 - [ ] Add animation to pieces when they are flipped.
 - [ ] Add a mobile friendly view.
 - [ ] Add a Dark/light mode toggle.
-- [ ] 

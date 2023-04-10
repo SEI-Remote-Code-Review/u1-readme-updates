@@ -1,5 +1,5 @@
-# **BlackJack Game - Musto**
-# **PLAY THIS GAME LIVE [HERE](https://blackjack-musto.netlify.app/)**
+# BlackJack Game - Musto
+# PLAY THIS GAME LIVE [HERE](https://blackjack-musto.netlify.app/)
 
 ## Description
 *How to Play*
@@ -30,19 +30,17 @@
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Stackoverflow](https://stackoverflow.co/)
 
-## *To run this project locally:*
-**Clone the repository to your local machine.**
+## To run this project locally
 
-**Navigate to the project directory.**
+Clone the repository to your local machine. Navigate to the project directory. Open the index.html file in your web browser.
 
-**Open the index.html file in your web browser.**
+## Ambitious future updates
 
-## **AMBITIOUS FUTURE UPDATES:**
-- Add a **TITLE SCREEN**...
+- Add a title screen!
 - Find a way to animate for mobile devices based on touch.
 - Have a sound effect for every possible click.
 - Add proper betting mechanics.
-- Improve HTML hierarchy .
+- Improve HTML hierarchy.
 - Add proper animation.
 - Optimize Javascript.
 - Will update as other updates get tackled.

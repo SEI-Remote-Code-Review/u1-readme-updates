@@ -1,0 +1,56 @@
+# Nepali Card Game
+![nepali card game screenshot](./assets/images/Nepali%20Screenshot.png)
+
+## [Play the Game Here](https://nepali-card-game.netlify.app/)
+
+I was taught this card game on the Annapurna trail by a local Nepali guide and want to share this fun and easy game with the masses! 
+
+## Getting Started
+
+### General Game Play
+
+* Each player is dealt 5 cards at the start of each new game and round.
+* Player 1 must discard one of the following options:
+  * 1 card, 
+  * Or a 'License' enabling discard:
+    * 2-4 cards if 2/3/4-of-a-kind is present
+    * 3-5 cards of the same suit sequence
+* Player 1 then picks up 1 card from the deck or opponent's discard pile if 'License' is enabled.
+* Player 1's turn is over.
+* Play moves to Player 2 to repeat .the Discard & Pick Up steps.
+
+### How to Win
+
+* At the start of a player's turn, if the total value of a hand is less than or equal to 5, then the player can 'Compare Hands' to end the round.
+* The game will continue for multiple rounds until a player reaches 100+ penalized points.
+* The player with the least amount of points wins the game.
+
+Planning materials and a flow chart illustrating the steps of the gameplay can be found [here](https://docs.google.com/document/d/1Aere-NPFgVWvv8nPb7wXUHFs2MAKJY3A7RmimAjnevU/edit#heading=h.gqcl1qcnnnca).
+
+## Technologies Used
+
+* JavaScript
+* HTML
+* CSS
+* Git
+
+## Attributions
+
+* Animations from [Animate.style](https://animate.style/)
+* Audio from [Pixabay](https://pixabay.com/)
+* Background image from [Himalayan Wonders](https://www.himalayanwonders.com/blog/trekking-options-in-the-annapurna-region.html)
+* Card CSS template from [GA Repository](https://github.com/ManliestBen/css-card-template) 
+* Favicon image by [Flaticon](https://www.flaticon.com/free-icon/poker-cards_5537635?term=playing+card&page=1&position=21&origin=tag&related_id=5537635)
+* Font from [Google Fonts](https://fonts.google.com/)
+* Instructional Hoverable Dropdown from [W3 Schools](https://www.w3schools.com/howto/howto_css_dropdown.asp)
+* Marigold confetti image by [Flaticon](https://www.flaticon.com/free-icon/mint-marigold_4139490?term=marigold&page=1&position=10&origin=search&related_id=4139490)
+* Winning confetti from [GA Repository](https://github.com/SEI-Remote/css-card-deck)
+
+## Next Steps
+
+- [ ] Computer player functionality
+- [ ] Update confetti to marigold flowers
+- [ ] Dark Mode
+- [x] Sound
+- [ ] Mobile-friendly layout
+- [x] Instructional pop-up window
